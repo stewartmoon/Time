@@ -1,0 +1,6 @@
+﻿  Time.cpp
+  Source.cpp
+c:\users\smoon5\desktop\partnerprogram11\partnerprogram11\source.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'long', possible loss of data
+  Generating Code...
+  PartnerProgram11.vcxproj -> C:\Users\smoon5\Desktop\PartnerProgram11\Debug\PartnerProgram11.exe
+  PartnerProgram11.vcxproj -> C:\Users\smoon5\Desktop\PartnerProgram11\Debug\PartnerProgram11.pdb (Full PDB)
